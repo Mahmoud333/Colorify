@@ -1,5 +1,3 @@
-# Colorify
-
 <img src="https://github.com/czater/Colorify/blob/master/Colorify_screen.png"/>
 
 [![Version](https://img.shields.io/cocoapods/v/Colorify.svg?style=flat)](http://cocoapods.org/pods/Colorify)
