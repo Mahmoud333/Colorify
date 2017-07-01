@@ -22,6 +22,8 @@ img.backgroundColor = Colorify.Kale
 
 ## Requirements
 
+None.
+
 ## Installation
 
 Colorify is available through [CocoaPods](http://cocoapods.org). To install
