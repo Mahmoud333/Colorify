@@ -1,5 +1,7 @@
 <img src="https://github.com/czater/Colorify/blob/master/Colorify_screen.png"/>
 
+Colorify - simple, yet powerful color library.
+
 [![Version](https://img.shields.io/cocoapods/v/Colorify.svg?style=flat)](http://cocoapods.org/pods/Colorify)
 [![License](https://img.shields.io/cocoapods/l/Colorify.svg?style=flat)](http://cocoapods.org/pods/Colorify)
 [![Platform](https://img.shields.io/cocoapods/p/Colorify.svg?style=flat)](http://cocoapods.org/pods/Colorify)
