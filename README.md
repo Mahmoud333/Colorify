@@ -9,6 +9,11 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```swift
+redView.heroID = "ironMan"
+blackView.heroID = "batMan"
+```
+ 
 ## Requirements
 
 ## Installation
