@@ -1,11 +1,13 @@
 # Colorify
 
-[![CI Status](http://img.shields.io/travis/czater/Colorify.svg?style=flat)](https://travis-ci.org/czater/Colorify)
+<img src="https://github.com/czater/Colorify/blob/master/Colorify_screen.png"/>
+
 [![Version](https://img.shields.io/cocoapods/v/Colorify.svg?style=flat)](http://cocoapods.org/pods/Colorify)
 [![License](https://img.shields.io/cocoapods/l/Colorify.svg?style=flat)](http://cocoapods.org/pods/Colorify)
 [![Platform](https://img.shields.io/cocoapods/p/Colorify.svg?style=flat)](http://cocoapods.org/pods/Colorify)
+![Swift 3.0+](https://img.shields.io/badge/Swift-3.0%2B-orange.svg)
+![Xcode 8.2+](https://img.shields.io/badge/Xcode-8.2%2B-blue.svg)
 
-<img src="https://github.com/czater/Colorify/blob/master/Colorify_screen.png"/>
 
 ## Example
 
