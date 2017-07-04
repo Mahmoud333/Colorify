@@ -29,8 +29,8 @@ pod "Colorify"
 
 ## Author
 
-Damian Paśko,
-damianpasko92@gmail.com
+Damian Paśko, <br>
+damianpasko92@gmail.com, <br>
 https://github.com/czater
 
 ## License
