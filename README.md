@@ -7,9 +7,7 @@
 ![Xcode 8.2+](https://img.shields.io/badge/Xcode-8.2%2B-blue.svg)
 
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+## Example of usage
 
 
 
@@ -31,8 +29,8 @@ pod "Colorify"
 
 ## Author
 
-Damian Paśko,
-damianpasko92@gmail.com
+Damian Paśko, <br>
+damianpasko92@gmail.com, <br>
 https://github.com/czater
 
 ## License
