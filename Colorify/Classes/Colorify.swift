@@ -1,6 +1,14 @@
+//
+//  File.swift
+//  Colorify
+//
+//  Created by Damian on 26/06/2017.
+//  Copyright © 2017 Damian. All rights reserved.
+//
+
 public struct Colorify
 {
-    public static var Turquise: UIColor
+    public static var Turquoise: UIColor
     {
         return UIColor.init(hex: "1abc9c")
     }
@@ -143,6 +151,46 @@ public struct Colorify
     public static var Niagara:UIColor
     {
         return UIColor.init(hex: "5487A4")
+    }
+    public static var Grenadine: UIColor
+    {
+        return UIColor.init(hex: "DF3F32")
+    }
+    public static var TawnyPort: UIColor
+    {
+        return UIColor.init(hex: "5C2C35")
+    }
+    public static var BalletSlipper: UIColor
+    {
+        return UIColor.init(hex: "EBCED5")
+    }
+    public static var Butterum: UIColor
+    {
+        return UIColor.init(hex: "C68F65")
+    }
+    public static var NavyPeony: UIColor
+    {
+        return UIColor.init(hex: "223A5E")
+    }
+    public static var NeutralGray: UIColor
+    {
+        return UIColor.init(hex: "8E918F")
+    }
+    public static var ShadedSpruce: UIColor
+    {
+        return UIColor.init(hex: "00585E")
+    }
+    public static var GoldenLime: UIColor
+    {
+        return UIColor.init(hex: "9A9738")
+    }
+    public static var Marina: UIColor
+    {
+        return UIColor.init(hex: "4F84C4")
+    }
+    public static var AutumnMaple: UIColor
+    {
+        return UIColor.init(hex: "C46215")
     }
 }
 
