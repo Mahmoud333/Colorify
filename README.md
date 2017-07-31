@@ -20,6 +20,15 @@ self.view.addGradient(from: Colorify.Lime, to: Colorify.LightGreen, direction: .
 ...
 ```
 
+Gradient support: left - right, top - bottom, topLeft - bottomRight, right - left, bottom - top
+
+Examples:
+topLeft - bottomRight
+<img src="https://raw.githubusercontent.com/czater/Colorify/1.0/ColorifyGradient1.png"/>
+
+top - bottom
+<img src="https://raw.githubusercontent.com/czater/Colorify/1.0/ColorifyGradient2.png"/>
+
 ## Installation
 
 Colorify is available through [CocoaPods](http://cocoapods.org). To install
