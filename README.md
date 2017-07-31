@@ -22,8 +22,8 @@ self.view.addGradient(from: Colorify.Lime, to: Colorify.LightGreen, direction: .
 
 Gradient support: left - right, top - bottom, topLeft - bottomRight, right - left, bottom - top
 
-Examples:
-top - bottom         topLeft - bottomRight
+Examples: <br>
+top - bottom, topLeft - bottomRight
 <img src="https://raw.githubusercontent.com/czater/Colorify/1.0/ColorifyGradient3.png"/>
 
 
